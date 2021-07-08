@@ -2,4 +2,10 @@ This is a test commit
 I would like to move this over
 So the the training included some prior benefits that we did not know earlier
 
+expecting a conflict from master
+
 Please look at carefully before to try to concur
+
+expecting a conflict from master
+
+expecting a conflict from master
