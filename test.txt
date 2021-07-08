@@ -9,3 +9,6 @@ Please look at carefully before to try to concur
 expecting a conflict from master
 
 expecting a conflict from master
+Adding a new stuff
+
+Work in progress
