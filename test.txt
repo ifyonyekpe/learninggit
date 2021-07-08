@@ -11,5 +11,8 @@ expecting a conflict from master
 expecting a conflict from master
 
 Adding a new stuff
+test
+
+tests
 
 Work in progress
